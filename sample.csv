@@ -1,0 +1,6 @@
+Region,Product,Sales,Quantity,Category
+North,Widget A,1000,10,Office
+,Widget B,750,5,Home
+East,Widget C,1200,12,Office
+West,Widget D,,8,Home
+North,Widget E,950,,Office
